@@ -1,0 +1,7 @@
+android/app/build/intermediates/cxx/RelWithDebInfo/3mp13w5n/obj/x86_64/libreactnative.so
+android/app/build/intermediates/cxx/RelWithDebInfo/3mp13w5n/obj/arm64-v8a/libreactnative.so
+android/app/build/intermediates/cxx/RelWithDebInfo/3mp13w5n/obj/x86/libreactnative.so
+android/app/build/intermediates/cxx/RelWithDebInfo/3mp13w5n/obj/armeabi-v7a/libreactnative.so
+android/app/build/intermediates/merged_native_libs/release/mergeReleaseNativeLibs/out/lib/arm64-v8a/libreactnative.so
+android/app/build/intermediates/merged_native_libs/release/mergeReleaseNativeLibs/out/lib/x86_64/libreactnative.so
+android/app/release/weatherapp.apk

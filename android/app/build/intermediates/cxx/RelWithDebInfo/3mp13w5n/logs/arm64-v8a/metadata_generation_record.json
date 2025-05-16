@@ -1,0 +1,171 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 24 min SDK version: arm64-v8a",
+    "file_": "/Users/apple/Desktop/Weather/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON /Users/apple/Desktop/Weather/android/app/.cxx/RelWithDebInfo/3mp13w5n/arm64-v8a/android_gradle_build.json due to:",
+    "file_": "/Users/apple/Desktop/Weather/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "- a file changed",
+    "file_": "/Users/apple/Desktop/Weather/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "  - /Users/apple/Desktop/Weather/node_modules/@react-native-community/geolocation/android/build/generated/source/codegen/jni/CMakeLists.txt (LAST_MODIFIED_CHANGED)",
+    "file_": "/Users/apple/Desktop/Weather/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "/Library/Java/JavaVirtualMachines/zulu-17.jdk/Contents/Home/bin/java \\\n  --class-path \\\n  /Users/apple/.gradle/caches/modules-2/files-2.1/com.google.prefab/cli/2.1.0/aa32fec809c44fa531f01dcfb739b5b3304d3050/cli-2.1.0-all.jar \\\n  com.google.prefab.cli.AppKt \\\n  --build-system \\\n  cmake \\\n  --platform \\\n  android \\\n  --abi \\\n  arm64-v8a \\\n  --os-version \\\n  24 \\\n  --stl \\\n  c++_shared \\\n  --ndk-version \\\n  27 \\\n  --output \\\n  /var/folders/48/vdw1vlpx1q9dqvgt0c487b5r0000gn/T/agp-prefab-staging119927600385776552/staged-cli-output \\\n  /Users/apple/.gradle/caches/8.13/transforms/48de17ae001fd5f1bcfd4007338aaa12/transformed/react-android-0.79.2-release/prefab \\\n  /Users/apple/.gradle/caches/8.13/transforms/532fdff9465dd631d517bd26502bc504/transformed/hermes-android-0.79.2-release/prefab \\\n  /Users/apple/.gradle/caches/8.13/transforms/72cde7dc85b5006383f56c98fcfedfa5/transformed/fbjni-0.7.0/prefab\n",
+    "file_": "/Users/apple/Desktop/Weather/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "Received process result: 0",
+    "file_": "/Users/apple/Desktop/Weather/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "keeping json folder \u0027/Users/apple/Desktop/Weather/android/app/.cxx/RelWithDebInfo/3mp13w5n/arm64-v8a\u0027 but regenerating project",
+    "file_": "/Users/apple/Desktop/Weather/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "executing cmake /Users/apple/Library/Android/sdk/cmake/3.22.1/bin/cmake \\\n  -H/Users/apple/Desktop/Weather/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup \\\n  -DCMAKE_SYSTEM_NAME\u003dAndroid \\\n  -DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON \\\n  -DCMAKE_SYSTEM_VERSION\u003d24 \\\n  -DANDROID_PLATFORM\u003dandroid-24 \\\n  -DANDROID_ABI\u003darm64-v8a \\\n  -DCMAKE_ANDROID_ARCH_ABI\u003darm64-v8a \\\n  -DANDROID_NDK\u003d/Users/apple/Library/Android/sdk/ndk/27.1.12297006 \\\n  -DCMAKE_ANDROID_NDK\u003d/Users/apple/Library/Android/sdk/ndk/27.1.12297006 \\\n  -DCMAKE_TOOLCHAIN_FILE\u003d/Users/apple/Library/Android/sdk/ndk/27.1.12297006/build/cmake/android.toolchain.cmake \\\n  -DCMAKE_MAKE_PROGRAM\u003d/Users/apple/Library/Android/sdk/cmake/3.22.1/bin/ninja \\\n  -DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/Users/apple/Desktop/Weather/android/app/build/intermediates/cxx/RelWithDebInfo/3mp13w5n/obj/arm64-v8a \\\n  -DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003d/Users/apple/Desktop/Weather/android/app/build/intermediates/cxx/RelWithDebInfo/3mp13w5n/obj/arm64-v8a \\\n  -DCMAKE_BUILD_TYPE\u003dRelWithDebInfo \\\n  -DCMAKE_FIND_ROOT_PATH\u003d/Users/apple/Desktop/Weather/android/app/.cxx/RelWithDebInfo/3mp13w5n/prefab/arm64-v8a/prefab \\\n  -B/Users/apple/Desktop/Weather/android/app/.cxx/RelWithDebInfo/3mp13w5n/arm64-v8a \\\n  -GNinja \\\n  -DPROJECT_BUILD_DIR\u003d/Users/apple/Desktop/Weather/android/app/build \\\n  -DPROJECT_ROOT_DIR\u003d/Users/apple/Desktop/Weather/android \\\n  -DREACT_ANDROID_DIR\u003d/Users/apple/Desktop/Weather/node_modules/react-native/ReactAndroid \\\n  -DANDROID_STL\u003dc++_shared \\\n  -DANDROID_SUPPORT_FLEXIBLE_PAGE_SIZES\u003dON\n",
+    "file_": "/Users/apple/Desktop/Weather/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "/Users/apple/Library/Android/sdk/cmake/3.22.1/bin/cmake \\\n  -H/Users/apple/Desktop/Weather/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup \\\n  -DCMAKE_SYSTEM_NAME\u003dAndroid \\\n  -DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON \\\n  -DCMAKE_SYSTEM_VERSION\u003d24 \\\n  -DANDROID_PLATFORM\u003dandroid-24 \\\n  -DANDROID_ABI\u003darm64-v8a \\\n  -DCMAKE_ANDROID_ARCH_ABI\u003darm64-v8a \\\n  -DANDROID_NDK\u003d/Users/apple/Library/Android/sdk/ndk/27.1.12297006 \\\n  -DCMAKE_ANDROID_NDK\u003d/Users/apple/Library/Android/sdk/ndk/27.1.12297006 \\\n  -DCMAKE_TOOLCHAIN_FILE\u003d/Users/apple/Library/Android/sdk/ndk/27.1.12297006/build/cmake/android.toolchain.cmake \\\n  -DCMAKE_MAKE_PROGRAM\u003d/Users/apple/Library/Android/sdk/cmake/3.22.1/bin/ninja \\\n  -DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/Users/apple/Desktop/Weather/android/app/build/intermediates/cxx/RelWithDebInfo/3mp13w5n/obj/arm64-v8a \\\n  -DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003d/Users/apple/Desktop/Weather/android/app/build/intermediates/cxx/RelWithDebInfo/3mp13w5n/obj/arm64-v8a \\\n  -DCMAKE_BUILD_TYPE\u003dRelWithDebInfo \\\n  -DCMAKE_FIND_ROOT_PATH\u003d/Users/apple/Desktop/Weather/android/app/.cxx/RelWithDebInfo/3mp13w5n/prefab/arm64-v8a/prefab \\\n  -B/Users/apple/Desktop/Weather/android/app/.cxx/RelWithDebInfo/3mp13w5n/arm64-v8a \\\n  -GNinja \\\n  -DPROJECT_BUILD_DIR\u003d/Users/apple/Desktop/Weather/android/app/build \\\n  -DPROJECT_ROOT_DIR\u003d/Users/apple/Desktop/Weather/android \\\n  -DREACT_ANDROID_DIR\u003d/Users/apple/Desktop/Weather/node_modules/react-native/ReactAndroid \\\n  -DANDROID_STL\u003dc++_shared \\\n  -DANDROID_SUPPORT_FLEXIBLE_PAGE_SIZES\u003dON\n",
+    "file_": "/Users/apple/Desktop/Weather/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "Received process result: 0",
+    "file_": "/Users/apple/Desktop/Weather/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "Exiting generation of /Users/apple/Desktop/Weather/android/app/.cxx/RelWithDebInfo/3mp13w5n/arm64-v8a/compile_commands.json.bin normally",
+    "file_": "/Users/apple/Desktop/Weather/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "done executing cmake",
+    "file_": "/Users/apple/Desktop/Weather/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "/Users/apple/Desktop/Weather/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  }
+]

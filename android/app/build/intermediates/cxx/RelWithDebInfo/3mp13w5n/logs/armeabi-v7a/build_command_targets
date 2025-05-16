@@ -1,0 +1,6 @@
+/Users/apple/Library/Android/sdk/cmake/3.22.1/bin/ninja \
+  -C \
+  /Users/apple/Desktop/Weather/android/app/.cxx/RelWithDebInfo/3mp13w5n/armeabi-v7a \
+  appmodules \
+  react_codegen_rnscreens \
+  react_codegen_safeareacontext
